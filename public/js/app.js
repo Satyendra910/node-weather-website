@@ -1,4 +1,4 @@
-console.log('Client site javascript is loaded')
+
 
 
 
